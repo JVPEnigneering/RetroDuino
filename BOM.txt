@@ -1,0 +1,15 @@
+*/RetroDuino BOM\*
+
+1x AtMega 238P-PU
+
+3x MAX7219
+2x Red LED Matrx 8x8 (2088)
+1x LiPo Battery 3.7V
+1x Lipo charge circuit
+1x DC-DC boost 
+Resistors and capacitors 
+DIP sockets
+6x buttons
+3D printed SHELL 
+4digit 7seg Display 
+ 
