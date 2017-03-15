@@ -1,7 +1,5 @@
 #include <LedControl.h>
 #include <TimerOne.h>
-#include "pitches.h"
-#include "reproducir.h"
 #include "rutina_piezas.h"
 
 #define Boton_A 4
